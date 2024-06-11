@@ -1,6 +1,7 @@
 # filterplugins
-Ansible filterplugins
-add these to you ansible projects to extend your jinja filters
+Ansible filterplugins.  
+
+Add these to you ansible projects to extend your jinja filters
 
 I'm open for pull requests, in case people want to share theirs
 
